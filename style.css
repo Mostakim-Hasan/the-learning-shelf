@@ -26,6 +26,10 @@ body {
     columns: 2;
 }
 
+.register-section-margin {
+    margin-top: 100px;
+}
+
 .register-now {
     height: 230px;
     background: #289BDE;
@@ -37,4 +41,12 @@ body {
     font-size: 18px;
     color: #289BDE;
     border: none;
+}
+
+.questions-margin {
+    margin-top: 100px;
+}
+
+.accordion-margin {
+    margin-top: 50px;
 }
