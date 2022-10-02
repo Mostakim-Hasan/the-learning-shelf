@@ -17,3 +17,11 @@ body {
 
     color: #4A4A4A;
 }
+
+.main-margin {
+    margin-top: 130px;
+}
+
+.courses-grid {
+    columns: 2;
+}
