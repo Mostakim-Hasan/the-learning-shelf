@@ -9,12 +9,7 @@ body {
     font-weight: 600;
     font-size: 40px;
     line-height: 60px;
-    /* identical to box height */
-
     text-align: center;
-
-    /* Dark 02 */
-
     color: #4A4A4A;
 }
 
@@ -62,4 +57,17 @@ footer {
 footer p {
     color: #E8E8E8;
 
+}
+
+/* media screen  */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .courses-grid {
+        columns: 1;
+    }
+}
+
+@media (max-width: 767px) {
+    .courses-grid {
+        columns: 1;
+    }
 }
