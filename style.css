@@ -54,3 +54,12 @@ body {
 .company-margin {
     margin-top: 100px;
 }
+
+footer {
+    height: 472px;
+}
+
+footer p {
+    color: #E8E8E8;
+
+}
